@@ -1,0 +1,130 @@
+.topNav {
+    z-index: 10;
+  }
+  .menu-nav-bar{
+    background-color: #511d70;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top:0;
+    right:0;
+    width: 80%;
+    height:100% ;
+    z-index: 1000;
+  }
+  .menu-nav-bar li {
+    width: 100%;
+    height:10%;
+    margin: 0;
+    padding-right:10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: start;
+    color:white;
+  }
+  .menu-nav-bar li::before{
+    content: '';
+    width: 100%;
+    height: 2px;
+    color:#fff;
+    border:1px solid red;
+    position: absolute;
+    top:80px;
+    right: 0;
+    margin:0;
+    padding: 0;
+  }
+  @media (max-width:1200px) {
+    .navLinks{
+      display: none;
+    }
+  }
+  @media (min-width:1200px) {
+    .menu{
+      display: none;
+    }
+  }
+  .overlay{
+    width: 100vw;
+    height: 100vh;
+    background-color:rgba(128, 128, 128, 0.905) !important;
+    position: fixed;
+    z-index: 100;
+    clip-path: polygon(0 0,100% 0,100% 0,0 0);
+    
+    
+  }
+  .overlay.active{
+    clip-path: polygon(0 0,100% 0,100% 100%,0 100%);
+  
+  }
+  .overlay .searchCon{
+    position: relative;
+    top: 50px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    height: 60px;
+    background-color: #fff;
+    border-radius: 5px;
+  }
+  .searchCon .inputsea{
+    width: 90%;
+    height: 90%;
+  }
+  .searchCon .inputsea:focus{
+    outline-color: transparent;
+  }
+  .iconSear{
+    color: gray;
+    position: relative;
+    top: 0px;
+    right: -10px;
+    z-index: 1000;
+  }
+  .iconclose{
+    color: red;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1000;
+    cursor: pointer;
+  }
+  
+  .btnItem:hover{
+    color: white !important;
+    border-color: #fff !important;
+  }
+  .notification{
+    clip-path: polygon(0 0,100% 0,100% 0,0 0);
+  }
+  .notification.active{
+    clip-path: polygon(0 0,100% 0,100% 100%,0 100%);
+  }
+  .listStyle{
+    color: gray;
+    text-align: right;
+    padding: 10px 0;
+  }
+  .listStyle:hover{
+    background-color: #eee;
+  }
+  
+  .listLast{
+    color: red ;
+  }
+  .notIcon{
+    margin-left: 10px;
+    color: #999;
+    padding-right: 10px;
+  }
+  .notIconlast{
+    margin-left: 10px;
+    padding-right: 10px;
+  }
+  .activeList{
+    display: "block";
+  }
+      

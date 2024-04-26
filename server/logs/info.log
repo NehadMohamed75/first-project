@@ -1,0 +1,190 @@
+[31merror[39m: promiseAsyncWrapepr is not defined {"timestamp":"2024-02-28 21:01:33"}
+[31merror[39m: promiseAsyncWrapepr is not defined {"timestamp":"2024-02-28 21:01:33"}
+[31merror[39m: Announcement validation failed: importance: Path `importance` is required., image: Path `image` is required., description: Path `description` is required., title: Path `title` is required. {"timestamp":"2024-02-28 21:01:46"}
+[31merror[39m: Announcement validation failed: importance: Path `importance` is required., image: Path `image` is required., description: Path `description` is required., title: Path `title` is required. {"timestamp":"2024-02-28 21:01:46"}
+[31merror[39m: Announcement validation failed: importance: Path `importance` is required., description: Path `description` is required., title: Path `title` is required. {"timestamp":"2024-02-28 21:02:17"}
+[31merror[39m: Announcement validation failed: importance: Path `importance` is required., description: Path `description` is required., title: Path `title` is required. {"timestamp":"2024-02-28 21:02:17"}
+[31merror[39m: Announcement validation failed: importance: `2` is not a valid enum value for path `importance`. {"timestamp":"2024-02-28 21:02:55"}
+[31merror[39m: Announcement validation failed: importance: `2` is not a valid enum value for path `importance`. {"timestamp":"2024-02-28 21:02:55"}
+[31merror[39m: Announcement validation failed: importance: `2` is not a valid enum value for path `importance`. {"timestamp":"2024-02-28 21:03:18"}
+[31merror[39m: Announcement validation failed: importance: `2` is not a valid enum value for path `importance`. {"timestamp":"2024-02-28 21:03:18"}
+[31merror[39m: Announcement validation failed: importance: `2` is not a valid enum value for path `importance`. {"timestamp":"2024-02-28 21:03:19"}
+[31merror[39m: Announcement validation failed: importance: `2` is not a valid enum value for path `importance`. {"timestamp":"2024-02-28 21:03:19"}
+[31merror[39m: static_files_host is not defined {"timestamp":"2024-02-29 06:25:45"}
+[31merror[39m: static_files_host is not defined {"timestamp":"2024-02-29 06:25:45"}
+[31merror[39m: Student validation failed: password: Path `password` is required. {"timestamp":"2024-02-29 06:26:16"}
+[31merror[39m: Student validation failed: password: Path `password` is required. {"timestamp":"2024-02-29 06:26:16"}
+[31merror[39m: new_announcement is not defined {"timestamp":"2024-02-29 06:29:46"}
+[31merror[39m: new_announcement is not defined {"timestamp":"2024-02-29 06:29:46"}
+[31merror[39m: Student validation failed: birth_date: Path `birth_date` is required., program: Path `program` is required., address: Path `address` is required., phone_number: Path `phone_number` is required., email: Path `email` is required., academic_number: Path `academic_number` is required., national_id: Path `national_id` is required., full_name: Path `full_name` is required. {"timestamp":"2024-02-29 06:30:19"}
+[31merror[39m: Student validation failed: birth_date: Path `birth_date` is required., program: Path `program` is required., address: Path `address` is required., phone_number: Path `phone_number` is required., email: Path `email` is required., academic_number: Path `academic_number` is required., national_id: Path `national_id` is required., full_name: Path `full_name` is required. {"timestamp":"2024-02-29 06:30:19"}
+[31merror[39m: Student validation failed: birth_date: Path `birth_date` is required., program: Path `program` is required., address: Path `address` is required., phone_number: Path `phone_number` is required., email: Path `email` is required., academic_number: Path `academic_number` is required., national_id: Path `national_id` is required., full_name: Path `full_name` is required. {"timestamp":"2024-02-29 06:30:28"}
+[31merror[39m: Student validation failed: birth_date: Path `birth_date` is required., program: Path `program` is required., address: Path `address` is required., phone_number: Path `phone_number` is required., email: Path `email` is required., academic_number: Path `academic_number` is required., national_id: Path `national_id` is required., full_name: Path `full_name` is required. {"timestamp":"2024-02-29 06:30:28"}
+[31merror[39m: TeacherRepository.getAllTeachers(...).populate is not a function {"timestamp":"2024-02-29 18:14:08"}
+[31merror[39m: TeacherRepository.getAllTeachers(...).populate is not a function {"timestamp":"2024-02-29 18:14:08"}
+[31merror[39m: Cannot read properties of undefined (reading 'filename') {"timestamp":"2024-02-29 19:10:33"}
+[31merror[39m: Cannot read properties of undefined (reading 'filename') {"timestamp":"2024-02-29 19:10:33"}
+[31merror[39m: promiseAsyncWrapepr is not defined {"timestamp":"2024-02-29 19:12:43"}
+[31merror[39m: promiseAsyncWrapepr is not defined {"timestamp":"2024-02-29 19:12:43"}
+[31merror[39m: promiseAsyncWrapepr is not defined {"timestamp":"2024-02-29 19:12:55"}
+[31merror[39m: promiseAsyncWrapepr is not defined {"timestamp":"2024-02-29 19:12:55"}
+[31merror[39m: promiseAsyncWrapepr is not defined {"timestamp":"2024-02-29 19:13:16"}
+[31merror[39m: promiseAsyncWrapepr is not defined {"timestamp":"2024-02-29 19:13:16"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:13:26"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:13:26"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:14:03"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:14:03"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:14:55"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:14:55"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:15:58"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:15:58"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:16:23"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:16:23"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:16:31"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:16:31"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:16:42"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:16:42"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:19:46"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:19:46"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:21:47"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:21:47"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:22:52"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:22:52"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:26:04"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:26:04"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:26:31"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:26:31"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:27:05"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:27:05"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:27:40"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 19:27:40"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 21:16:13"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 21:16:13"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 21:18:53"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 21:18:53"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 21:20:21"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 21:20:21"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 21:20:49"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 21:20:49"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 21:21:28"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 21:21:28"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 21:23:09"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 21:23:09"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 21:24:14"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 21:24:14"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 21:24:31"}
+[31merror[39m: No teacher found {"timestamp":"2024-02-29 21:24:31"}
+[31merror[39m: Password not match {"timestamp":"2024-02-29 21:24:40"}
+[31merror[39m: Password not match {"timestamp":"2024-02-29 21:24:40"}
+[31merror[39m: Password not match {"timestamp":"2024-02-29 21:26:46"}
+[31merror[39m: Password not match {"timestamp":"2024-02-29 21:26:46"}
+[31merror[39m: No student found {"timestamp":"2024-03-01 18:42:44"}
+[31merror[39m: No student found {"timestamp":"2024-03-01 18:42:44"}
+[31merror[39m: No staff found {"timestamp":"2024-03-01 18:43:29"}
+[31merror[39m: No staff found {"timestamp":"2024-03-01 18:43:29"}
+[31merror[39m: No staff found {"timestamp":"2024-03-01 18:47:21"}
+[31merror[39m: No staff found {"timestamp":"2024-03-01 18:47:21"}
+[31merror[39m: new_announcement is not defined {"timestamp":"2024-03-01 19:55:03"}
+[31merror[39m: new_announcement is not defined {"timestamp":"2024-03-01 19:55:03"}
+[31merror[39m: Cast to ObjectId failed for value "123" (type string) at path "_id" for model "Student" {"timestamp":"2024-03-01 20:02:06"}
+[31merror[39m: Cast to ObjectId failed for value "123" (type string) at path "_id" for model "Student" {"timestamp":"2024-03-01 20:02:06"}
+[31merror[39m: Cast to ObjectId failed for value "123" (type string) at path "_id" for model "Student" {"timestamp":"2024-03-01 20:02:34"}
+[31merror[39m: Cast to ObjectId failed for value "123" (type string) at path "_id" for model "Student" {"timestamp":"2024-03-01 20:02:34"}
+[31merror[39m: Cast to ObjectId failed for value "123" (type string) at path "_id" for model "Student" {"timestamp":"2024-03-01 20:04:14"}
+[31merror[39m: Cast to ObjectId failed for value "123" (type string) at path "_id" for model "Student" {"timestamp":"2024-03-01 20:04:14"}
+[31merror[39m: Cast to string failed for value "{
+  fieldname: 'image',
+  originalname: 'DALLÂ·E 2024-02-25 15.23.01 - An abstract representation of a couple in love, captured in a timeless moment. The setting is undefined, focusing instead on the silhouette of two fig.webp',
+  encoding: '7bit',
+  mimetype: 'image/webp',
+  destination: 'public/images/students/',
+  filename: 'student_EHOB86AI.webp',
+  path: 'public\\images\\students\\student_EHOB86AI.webp',
+  size: 156666
+}" (type Object) at path "image" {"timestamp":"2024-03-01 20:05:50"}
+[31merror[39m: Cast to string failed for value "{
+  fieldname: 'image',
+  originalname: 'DALLÂ·E 2024-02-25 15.23.01 - An abstract representation of a couple in love, captured in a timeless moment. The setting is undefined, focusing instead on the silhouette of two fig.webp',
+  encoding: '7bit',
+  mimetype: 'image/webp',
+  destination: 'public/images/students/',
+  filename: 'student_EHOB86AI.webp',
+  path: 'public\\images\\students\\student_EHOB86AI.webp',
+  size: 156666
+}" (type Object) at path "image" {"timestamp":"2024-03-01 20:05:50"}
+[31merror[39m: Student validation failed: created_by: Path `created_by` is required. {"timestamp":"2024-03-01 20:20:00"}
+[31merror[39m: Student validation failed: created_by: Path `created_by` is required. {"timestamp":"2024-03-01 20:20:00"}
+[31merror[39m: Student validation failed: created_by: Cast to ObjectId failed for value "123" (type string) at path "created_by" because of "BSONError" {"timestamp":"2024-03-01 20:38:15"}
+[31merror[39m: Student validation failed: created_by: Cast to ObjectId failed for value "123" (type string) at path "created_by" because of "BSONError" {"timestamp":"2024-03-01 20:38:15"}
+[31merror[39m: Assignment to constant variable. {"timestamp":"2024-03-01 21:29:42"}
+[31merror[39m: Assignment to constant variable. {"timestamp":"2024-03-01 21:29:42"}
+[31merror[39m: teacher.populate(...).execPopulate is not a function {"timestamp":"2024-03-01 21:32:52"}
+[31merror[39m: teacher.populate(...).execPopulate is not a function {"timestamp":"2024-03-01 21:32:52"}
+[31merror[39m: teacher.populate(...).exec is not a function {"timestamp":"2024-03-01 21:33:04"}
+[31merror[39m: teacher.populate(...).exec is not a function {"timestamp":"2024-03-01 21:33:04"}
+[31merror[39m: No teacher found {"timestamp":"2024-03-01 21:33:34"}
+[31merror[39m: No teacher found {"timestamp":"2024-03-01 21:33:34"}
+[31merror[39m: Student validation failed: created_by: Cast to ObjectId failed for value "123" (type string) at path "created_by" because of "BSONError" {"timestamp":"2024-03-01 21:47:11"}
+[31merror[39m: Student validation failed: created_by: Cast to ObjectId failed for value "123" (type string) at path "created_by" because of "BSONError" {"timestamp":"2024-03-01 21:47:11"}
+[31merror[39m: Student validation failed: created_by: Cast to ObjectId failed for value "123" (type string) at path "created_by" because of "BSONError" {"timestamp":"2024-03-01 22:43:27"}
+[31merror[39m: Student validation failed: created_by: Cast to ObjectId failed for value "123" (type string) at path "created_by" because of "BSONError" {"timestamp":"2024-03-01 22:43:27"}
+[31merror[39m: Student validation failed: created_by: Cast to ObjectId failed for value "123" (type string) at path "created_by" because of "BSONError" {"timestamp":"2024-03-02 02:47:38"}
+[31merror[39m: Student validation failed: created_by: Cast to ObjectId failed for value "123" (type string) at path "created_by" because of "BSONError" {"timestamp":"2024-03-02 02:47:38"}
+[31merror[39m: static_files_host is not defined {"timestamp":"2024-03-02 20:41:12"}
+[31merror[39m: static_files_host is not defined {"timestamp":"2024-03-02 20:41:12"}
+[31merror[39m: Study table already exists {"timestamp":"2024-03-02 20:42:49"}
+[31merror[39m: Study table already exists {"timestamp":"2024-03-02 20:42:49"}
+[31merror[39m: Study table already exists {"timestamp":"2024-03-02 20:43:54"}
+[31merror[39m: Study table already exists {"timestamp":"2024-03-02 20:43:54"}
+[31merror[39m: File is not a pdf {"timestamp":"2024-03-02 20:44:01"}
+[31merror[39m: File is not supported {"timestamp":"2024-03-02 20:44:21"}
+[31merror[39m: No student found {"timestamp":"2024-03-02 20:45:02"}
+[31merror[39m: No student found {"timestamp":"2024-03-02 20:45:02"}
+[31merror[39m: Study table already exists {"timestamp":"2024-03-02 22:16:10"}
+[31merror[39m: Study table already exists {"timestamp":"2024-03-02 22:16:10"}
+[31merror[39m: File not provided {"timestamp":"2024-03-02 22:17:51"}
+[31merror[39m: Study table already exists {"timestamp":"2024-03-02 22:17:57"}
+[31merror[39m: Study table already exists {"timestamp":"2024-03-02 22:17:57"}
+[31merror[39m: Study table already exists {"timestamp":"2024-03-02 22:18:52"}
+[31merror[39m: Study table already exists {"timestamp":"2024-03-02 22:18:52"}
+[31merror[39m: File not provided {"timestamp":"2024-03-02 22:19:11"}
+[31merror[39m: Staff validation failed: image: Path `image` is required. {"timestamp":"2024-03-03 00:39:47"}
+[31merror[39m: Staff validation failed: image: Path `image` is required. {"timestamp":"2024-03-03 00:39:47"}
+[31merror[39m: Cast to ObjectId failed for value "123" (type string) at path "_id" for model "Staff" {"timestamp":"2024-03-03 01:04:57"}
+[31merror[39m: Cast to ObjectId failed for value "123" (type string) at path "_id" for model "Staff" {"timestamp":"2024-03-03 01:04:57"}
+[31merror[39m: No student found {"timestamp":"2024-03-03 08:40:33"}
+[31merror[39m: No student found {"timestamp":"2024-03-03 08:40:33"}
+[31merror[39m: No staff found {"timestamp":"2024-03-03 08:44:41"}
+[31merror[39m: No staff found {"timestamp":"2024-03-03 08:44:41"}
+[31merror[39m: No teacher found {"timestamp":"2024-03-03 08:44:51"}
+[31merror[39m: No teacher found {"timestamp":"2024-03-03 08:44:51"}
+[31merror[39m: No teacher found {"timestamp":"2024-03-03 08:46:43"}
+[31merror[39m: No teacher found {"timestamp":"2024-03-03 08:46:43"}
+[31merror[39m: No staff found {"timestamp":"2024-03-03 08:48:47"}
+[31merror[39m: No staff found {"timestamp":"2024-03-03 08:48:47"}
+[31merror[39m: Password not match {"timestamp":"2024-03-03 08:58:09"}
+[31merror[39m: Password not match {"timestamp":"2024-03-03 08:58:09"}
+[31merror[39m: No student found {"timestamp":"2024-03-03 10:07:19"}
+[31merror[39m: No student found {"timestamp":"2024-03-03 10:07:19"}
+[31merror[39m: No staff found {"timestamp":"2024-03-03 17:48:08"}
+[31merror[39m: No staff found {"timestamp":"2024-03-03 17:48:08"}
+[31merror[39m: StudyTable validation failed: program: Path `program` is required. {"timestamp":"2024-03-04 00:18:20"}
+[31merror[39m: StudyTable validation failed: program: Path `program` is required. {"timestamp":"2024-03-04 00:18:20"}
+[31merror[39m: StudyTable validation failed: program: Path `program` is required. {"timestamp":"2024-03-04 00:28:04"}
+[31merror[39m: StudyTable validation failed: program: Path `program` is required. {"timestamp":"2024-03-04 00:28:04"}
+[31merror[39m: StudyTable validation failed: program: Path `program` is required. {"timestamp":"2024-03-04 00:28:26"}
+[31merror[39m: StudyTable validation failed: program: Path `program` is required. {"timestamp":"2024-03-04 00:28:26"}
+[31merror[39m: StudyTable validation failed: program: Path `program` is required. {"timestamp":"2024-03-04 00:28:40"}
+[31merror[39m: StudyTable validation failed: program: Path `program` is required. {"timestamp":"2024-03-04 00:28:40"}
+[31merror[39m: No staff found {"timestamp":"2024-03-04 00:42:22"}
+[31merror[39m: No staff found {"timestamp":"2024-03-04 00:42:22"}
+[31merror[39m: Username Already Exists {"timestamp":"2024-03-04 00:44:29"}
+[31merror[39m: Username Already Exists {"timestamp":"2024-03-04 00:44:29"}
+[31merror[39m: Username Already Exists {"timestamp":"2024-03-04 00:45:15"}
+[31merror[39m: Username Already Exists {"timestamp":"2024-03-04 00:45:15"}
+[31merror[39m: Username Already Exists {"timestamp":"2024-03-04 00:45:46"}
+[31merror[39m: Username Already Exists {"timestamp":"2024-03-04 00:45:46"}
+[31merror[39m: Username Already Exists {"timestamp":"2024-03-04 00:46:14"}
+[31merror[39m: Username Already Exists {"timestamp":"2024-03-04 00:46:14"}
+[31merror[39m: No teacher found {"timestamp":"2024-03-04 01:57:34"}
+[31merror[39m: No teacher found {"timestamp":"2024-03-04 01:57:34"}

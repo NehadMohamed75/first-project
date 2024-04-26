@@ -1,0 +1,172 @@
+{"level":"error","message":"promiseAsyncWrapepr is not defined","timestamp":"2024-02-28 21:01:33"}
+{"level":"error","message":"promiseAsyncWrapepr is not defined","timestamp":"2024-02-28 21:01:33"}
+{"level":"error","message":"Announcement validation failed: importance: Path `importance` is required., image: Path `image` is required., description: Path `description` is required., title: Path `title` is required.","timestamp":"2024-02-28 21:01:46"}
+{"level":"error","message":"Announcement validation failed: importance: Path `importance` is required., image: Path `image` is required., description: Path `description` is required., title: Path `title` is required.","timestamp":"2024-02-28 21:01:46"}
+{"level":"error","message":"Announcement validation failed: importance: Path `importance` is required., description: Path `description` is required., title: Path `title` is required.","timestamp":"2024-02-28 21:02:17"}
+{"level":"error","message":"Announcement validation failed: importance: Path `importance` is required., description: Path `description` is required., title: Path `title` is required.","timestamp":"2024-02-28 21:02:17"}
+{"level":"error","message":"Announcement validation failed: importance: `2` is not a valid enum value for path `importance`.","timestamp":"2024-02-28 21:02:55"}
+{"level":"error","message":"Announcement validation failed: importance: `2` is not a valid enum value for path `importance`.","timestamp":"2024-02-28 21:02:55"}
+{"level":"error","message":"Announcement validation failed: importance: `2` is not a valid enum value for path `importance`.","timestamp":"2024-02-28 21:03:18"}
+{"level":"error","message":"Announcement validation failed: importance: `2` is not a valid enum value for path `importance`.","timestamp":"2024-02-28 21:03:18"}
+{"level":"error","message":"Announcement validation failed: importance: `2` is not a valid enum value for path `importance`.","timestamp":"2024-02-28 21:03:19"}
+{"level":"error","message":"Announcement validation failed: importance: `2` is not a valid enum value for path `importance`.","timestamp":"2024-02-28 21:03:19"}
+{"level":"error","message":"static_files_host is not defined","timestamp":"2024-02-29 06:25:45"}
+{"level":"error","message":"static_files_host is not defined","timestamp":"2024-02-29 06:25:45"}
+{"level":"error","message":"Student validation failed: password: Path `password` is required.","timestamp":"2024-02-29 06:26:16"}
+{"level":"error","message":"Student validation failed: password: Path `password` is required.","timestamp":"2024-02-29 06:26:16"}
+{"level":"error","message":"new_announcement is not defined","timestamp":"2024-02-29 06:29:46"}
+{"level":"error","message":"new_announcement is not defined","timestamp":"2024-02-29 06:29:46"}
+{"level":"error","message":"Student validation failed: birth_date: Path `birth_date` is required., program: Path `program` is required., address: Path `address` is required., phone_number: Path `phone_number` is required., email: Path `email` is required., academic_number: Path `academic_number` is required., national_id: Path `national_id` is required., full_name: Path `full_name` is required.","timestamp":"2024-02-29 06:30:19"}
+{"level":"error","message":"Student validation failed: birth_date: Path `birth_date` is required., program: Path `program` is required., address: Path `address` is required., phone_number: Path `phone_number` is required., email: Path `email` is required., academic_number: Path `academic_number` is required., national_id: Path `national_id` is required., full_name: Path `full_name` is required.","timestamp":"2024-02-29 06:30:19"}
+{"level":"error","message":"Student validation failed: birth_date: Path `birth_date` is required., program: Path `program` is required., address: Path `address` is required., phone_number: Path `phone_number` is required., email: Path `email` is required., academic_number: Path `academic_number` is required., national_id: Path `national_id` is required., full_name: Path `full_name` is required.","timestamp":"2024-02-29 06:30:28"}
+{"level":"error","message":"Student validation failed: birth_date: Path `birth_date` is required., program: Path `program` is required., address: Path `address` is required., phone_number: Path `phone_number` is required., email: Path `email` is required., academic_number: Path `academic_number` is required., national_id: Path `national_id` is required., full_name: Path `full_name` is required.","timestamp":"2024-02-29 06:30:28"}
+{"level":"error","message":"TeacherRepository.getAllTeachers(...).populate is not a function","timestamp":"2024-02-29 18:14:08"}
+{"level":"error","message":"TeacherRepository.getAllTeachers(...).populate is not a function","timestamp":"2024-02-29 18:14:08"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'filename')","timestamp":"2024-02-29 19:10:33"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'filename')","timestamp":"2024-02-29 19:10:33"}
+{"level":"error","message":"promiseAsyncWrapepr is not defined","timestamp":"2024-02-29 19:12:43"}
+{"level":"error","message":"promiseAsyncWrapepr is not defined","timestamp":"2024-02-29 19:12:43"}
+{"level":"error","message":"promiseAsyncWrapepr is not defined","timestamp":"2024-02-29 19:12:55"}
+{"level":"error","message":"promiseAsyncWrapepr is not defined","timestamp":"2024-02-29 19:12:55"}
+{"level":"error","message":"promiseAsyncWrapepr is not defined","timestamp":"2024-02-29 19:13:16"}
+{"level":"error","message":"promiseAsyncWrapepr is not defined","timestamp":"2024-02-29 19:13:16"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:13:26"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:13:26"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:14:03"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:14:03"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:14:55"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:14:55"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:15:58"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:15:58"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:16:23"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:16:23"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:16:31"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:16:31"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:16:42"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:16:42"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:19:46"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:19:46"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:21:47"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:21:47"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:22:52"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:22:52"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:26:04"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:26:04"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:26:31"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:26:31"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:27:05"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:27:05"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:27:40"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 19:27:40"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 21:16:13"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 21:16:13"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 21:18:53"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 21:18:53"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 21:20:21"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 21:20:21"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 21:20:49"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 21:20:49"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 21:21:28"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 21:21:28"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 21:23:09"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 21:23:09"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 21:24:14"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 21:24:14"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 21:24:31"}
+{"level":"error","message":"No teacher found","timestamp":"2024-02-29 21:24:31"}
+{"level":"error","message":"Password not match","timestamp":"2024-02-29 21:24:40"}
+{"level":"error","message":"Password not match","timestamp":"2024-02-29 21:24:40"}
+{"level":"error","message":"Password not match","timestamp":"2024-02-29 21:26:46"}
+{"level":"error","message":"Password not match","timestamp":"2024-02-29 21:26:46"}
+{"level":"error","message":"No student found","timestamp":"2024-03-01 18:42:44"}
+{"level":"error","message":"No student found","timestamp":"2024-03-01 18:42:44"}
+{"level":"error","message":"No staff found","timestamp":"2024-03-01 18:43:29"}
+{"level":"error","message":"No staff found","timestamp":"2024-03-01 18:43:29"}
+{"level":"error","message":"No staff found","timestamp":"2024-03-01 18:47:21"}
+{"level":"error","message":"No staff found","timestamp":"2024-03-01 18:47:21"}
+{"level":"error","message":"new_announcement is not defined","timestamp":"2024-03-01 19:55:03"}
+{"level":"error","message":"new_announcement is not defined","timestamp":"2024-03-01 19:55:03"}
+{"level":"error","message":"Cast to ObjectId failed for value \"123\" (type string) at path \"_id\" for model \"Student\"","timestamp":"2024-03-01 20:02:06"}
+{"level":"error","message":"Cast to ObjectId failed for value \"123\" (type string) at path \"_id\" for model \"Student\"","timestamp":"2024-03-01 20:02:06"}
+{"level":"error","message":"Cast to ObjectId failed for value \"123\" (type string) at path \"_id\" for model \"Student\"","timestamp":"2024-03-01 20:02:34"}
+{"level":"error","message":"Cast to ObjectId failed for value \"123\" (type string) at path \"_id\" for model \"Student\"","timestamp":"2024-03-01 20:02:34"}
+{"level":"error","message":"Cast to ObjectId failed for value \"123\" (type string) at path \"_id\" for model \"Student\"","timestamp":"2024-03-01 20:04:14"}
+{"level":"error","message":"Cast to ObjectId failed for value \"123\" (type string) at path \"_id\" for model \"Student\"","timestamp":"2024-03-01 20:04:14"}
+{"level":"error","message":"Cast to string failed for value \"{\n  fieldname: 'image',\n  originalname: 'DALLÂ·E 2024-02-25 15.23.01 - An abstract representation of a couple in love, captured in a timeless moment. The setting is undefined, focusing instead on the silhouette of two fig.webp',\n  encoding: '7bit',\n  mimetype: 'image/webp',\n  destination: 'public/images/students/',\n  filename: 'student_EHOB86AI.webp',\n  path: 'public\\\\images\\\\students\\\\student_EHOB86AI.webp',\n  size: 156666\n}\" (type Object) at path \"image\"","timestamp":"2024-03-01 20:05:50"}
+{"level":"error","message":"Cast to string failed for value \"{\n  fieldname: 'image',\n  originalname: 'DALLÂ·E 2024-02-25 15.23.01 - An abstract representation of a couple in love, captured in a timeless moment. The setting is undefined, focusing instead on the silhouette of two fig.webp',\n  encoding: '7bit',\n  mimetype: 'image/webp',\n  destination: 'public/images/students/',\n  filename: 'student_EHOB86AI.webp',\n  path: 'public\\\\images\\\\students\\\\student_EHOB86AI.webp',\n  size: 156666\n}\" (type Object) at path \"image\"","timestamp":"2024-03-01 20:05:50"}
+{"level":"error","message":"Student validation failed: created_by: Path `created_by` is required.","timestamp":"2024-03-01 20:20:00"}
+{"level":"error","message":"Student validation failed: created_by: Path `created_by` is required.","timestamp":"2024-03-01 20:20:00"}
+{"level":"error","message":"Student validation failed: created_by: Cast to ObjectId failed for value \"123\" (type string) at path \"created_by\" because of \"BSONError\"","timestamp":"2024-03-01 20:38:15"}
+{"level":"error","message":"Student validation failed: created_by: Cast to ObjectId failed for value \"123\" (type string) at path \"created_by\" because of \"BSONError\"","timestamp":"2024-03-01 20:38:15"}
+{"level":"error","message":"Assignment to constant variable.","timestamp":"2024-03-01 21:29:42"}
+{"level":"error","message":"Assignment to constant variable.","timestamp":"2024-03-01 21:29:42"}
+{"level":"error","message":"teacher.populate(...).execPopulate is not a function","timestamp":"2024-03-01 21:32:52"}
+{"level":"error","message":"teacher.populate(...).execPopulate is not a function","timestamp":"2024-03-01 21:32:52"}
+{"level":"error","message":"teacher.populate(...).exec is not a function","timestamp":"2024-03-01 21:33:04"}
+{"level":"error","message":"teacher.populate(...).exec is not a function","timestamp":"2024-03-01 21:33:04"}
+{"level":"error","message":"No teacher found","timestamp":"2024-03-01 21:33:34"}
+{"level":"error","message":"No teacher found","timestamp":"2024-03-01 21:33:34"}
+{"level":"error","message":"Student validation failed: created_by: Cast to ObjectId failed for value \"123\" (type string) at path \"created_by\" because of \"BSONError\"","timestamp":"2024-03-01 21:47:11"}
+{"level":"error","message":"Student validation failed: created_by: Cast to ObjectId failed for value \"123\" (type string) at path \"created_by\" because of \"BSONError\"","timestamp":"2024-03-01 21:47:11"}
+{"level":"error","message":"Student validation failed: created_by: Cast to ObjectId failed for value \"123\" (type string) at path \"created_by\" because of \"BSONError\"","timestamp":"2024-03-01 22:43:27"}
+{"level":"error","message":"Student validation failed: created_by: Cast to ObjectId failed for value \"123\" (type string) at path \"created_by\" because of \"BSONError\"","timestamp":"2024-03-01 22:43:27"}
+{"level":"error","message":"Student validation failed: created_by: Cast to ObjectId failed for value \"123\" (type string) at path \"created_by\" because of \"BSONError\"","timestamp":"2024-03-02 02:47:38"}
+{"level":"error","message":"Student validation failed: created_by: Cast to ObjectId failed for value \"123\" (type string) at path \"created_by\" because of \"BSONError\"","timestamp":"2024-03-02 02:47:38"}
+{"level":"error","message":"static_files_host is not defined","timestamp":"2024-03-02 20:41:12"}
+{"level":"error","message":"static_files_host is not defined","timestamp":"2024-03-02 20:41:12"}
+{"level":"error","message":"Study table already exists","timestamp":"2024-03-02 20:42:49"}
+{"level":"error","message":"Study table already exists","timestamp":"2024-03-02 20:42:49"}
+{"level":"error","message":"Study table already exists","timestamp":"2024-03-02 20:43:54"}
+{"level":"error","message":"Study table already exists","timestamp":"2024-03-02 20:43:54"}
+{"level":"error","message":"File is not a pdf","timestamp":"2024-03-02 20:44:01"}
+{"level":"error","message":"File is not supported","timestamp":"2024-03-02 20:44:21"}
+{"level":"error","message":"No student found","timestamp":"2024-03-02 20:45:02"}
+{"level":"error","message":"No student found","timestamp":"2024-03-02 20:45:02"}
+{"level":"error","message":"Study table already exists","timestamp":"2024-03-02 22:16:10"}
+{"level":"error","message":"Study table already exists","timestamp":"2024-03-02 22:16:10"}
+{"level":"error","message":"File not provided","timestamp":"2024-03-02 22:17:51"}
+{"level":"error","message":"Study table already exists","timestamp":"2024-03-02 22:17:57"}
+{"level":"error","message":"Study table already exists","timestamp":"2024-03-02 22:17:57"}
+{"level":"error","message":"Study table already exists","timestamp":"2024-03-02 22:18:52"}
+{"level":"error","message":"Study table already exists","timestamp":"2024-03-02 22:18:52"}
+{"level":"error","message":"File not provided","timestamp":"2024-03-02 22:19:11"}
+{"level":"error","message":"Staff validation failed: image: Path `image` is required.","timestamp":"2024-03-03 00:39:47"}
+{"level":"error","message":"Staff validation failed: image: Path `image` is required.","timestamp":"2024-03-03 00:39:47"}
+{"level":"error","message":"Cast to ObjectId failed for value \"123\" (type string) at path \"_id\" for model \"Staff\"","timestamp":"2024-03-03 01:04:57"}
+{"level":"error","message":"Cast to ObjectId failed for value \"123\" (type string) at path \"_id\" for model \"Staff\"","timestamp":"2024-03-03 01:04:57"}
+{"level":"error","message":"No student found","timestamp":"2024-03-03 08:40:33"}
+{"level":"error","message":"No student found","timestamp":"2024-03-03 08:40:33"}
+{"level":"error","message":"No staff found","timestamp":"2024-03-03 08:44:41"}
+{"level":"error","message":"No staff found","timestamp":"2024-03-03 08:44:41"}
+{"level":"error","message":"No teacher found","timestamp":"2024-03-03 08:44:51"}
+{"level":"error","message":"No teacher found","timestamp":"2024-03-03 08:44:51"}
+{"level":"error","message":"No teacher found","timestamp":"2024-03-03 08:46:43"}
+{"level":"error","message":"No teacher found","timestamp":"2024-03-03 08:46:43"}
+{"level":"error","message":"No staff found","timestamp":"2024-03-03 08:48:47"}
+{"level":"error","message":"No staff found","timestamp":"2024-03-03 08:48:47"}
+{"level":"error","message":"Password not match","timestamp":"2024-03-03 08:58:09"}
+{"level":"error","message":"Password not match","timestamp":"2024-03-03 08:58:09"}
+{"level":"error","message":"No student found","timestamp":"2024-03-03 10:07:19"}
+{"level":"error","message":"No student found","timestamp":"2024-03-03 10:07:19"}
+{"level":"error","message":"No staff found","timestamp":"2024-03-03 17:48:08"}
+{"level":"error","message":"No staff found","timestamp":"2024-03-03 17:48:08"}
+{"level":"error","message":"StudyTable validation failed: program: Path `program` is required.","timestamp":"2024-03-04 00:18:20"}
+{"level":"error","message":"StudyTable validation failed: program: Path `program` is required.","timestamp":"2024-03-04 00:18:20"}
+{"level":"error","message":"StudyTable validation failed: program: Path `program` is required.","timestamp":"2024-03-04 00:28:04"}
+{"level":"error","message":"StudyTable validation failed: program: Path `program` is required.","timestamp":"2024-03-04 00:28:04"}
+{"level":"error","message":"StudyTable validation failed: program: Path `program` is required.","timestamp":"2024-03-04 00:28:26"}
+{"level":"error","message":"StudyTable validation failed: program: Path `program` is required.","timestamp":"2024-03-04 00:28:26"}
+{"level":"error","message":"StudyTable validation failed: program: Path `program` is required.","timestamp":"2024-03-04 00:28:40"}
+{"level":"error","message":"StudyTable validation failed: program: Path `program` is required.","timestamp":"2024-03-04 00:28:40"}
+{"level":"error","message":"No staff found","timestamp":"2024-03-04 00:42:22"}
+{"level":"error","message":"No staff found","timestamp":"2024-03-04 00:42:22"}
+{"level":"error","message":"Username Already Exists","timestamp":"2024-03-04 00:44:29"}
+{"level":"error","message":"Username Already Exists","timestamp":"2024-03-04 00:44:29"}
+{"level":"error","message":"Username Already Exists","timestamp":"2024-03-04 00:45:15"}
+{"level":"error","message":"Username Already Exists","timestamp":"2024-03-04 00:45:15"}
+{"level":"error","message":"Username Already Exists","timestamp":"2024-03-04 00:45:46"}
+{"level":"error","message":"Username Already Exists","timestamp":"2024-03-04 00:45:46"}
+{"level":"error","message":"Username Already Exists","timestamp":"2024-03-04 00:46:14"}
+{"level":"error","message":"Username Already Exists","timestamp":"2024-03-04 00:46:14"}
+{"level":"error","message":"No teacher found","timestamp":"2024-03-04 01:57:34"}
+{"level":"error","message":"No teacher found","timestamp":"2024-03-04 01:57:34"}
